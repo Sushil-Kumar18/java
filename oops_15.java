@@ -1,4 +1,5 @@
 public class oops_15 {
+    // This is the code for super static
     public static void main(String[] args) {
         Frog f1 = new Frog();
         
